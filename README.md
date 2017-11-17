@@ -2,4 +2,4 @@
 My projects 
 
 Frontend:
-- www.kolonauki.pw.du.pl
+- www.kolonauki.pw.edu.pl
