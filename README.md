@@ -2,10 +2,10 @@
 My projects
 
 Frontend:
-- www.kolonauki.pw.edu.pl   (HTML, CSS, Bootstrap) - strona stworzona na potrzeby konferencji
+- www.kolonauki.pw.edu.pl   (HTML, CSS, Bootstrap) - strona stworzona na potrzeby pierwszej konferencji studenckiego ruchu naukowego uczelni technicznych w polsce organizowanej przez Politechnike Warszawską
 
 Autodesk Fusion 360:
-- projekt loga konferencji
+- projekt loga pierwszej konferencji studenckiego ruchu naukowego uczelni technicznych w polsce organizowanej przez Politechnike Warszawską
 
 Python:
 - modelPopulacji - podstawowy model rozwoju populacji organizmów żywych oraz oraz sieć neuronowa do prognozowania rozwoju populacji organizmów żywych (W ramach projektu indywidualnego na Politechnice Warszawskiej. W projekcie został opracowany dyskretny model dynamiczny opisujący rozwój populacji określonego gatunku szkodnika w zadanych warunkach środowiskowych.
