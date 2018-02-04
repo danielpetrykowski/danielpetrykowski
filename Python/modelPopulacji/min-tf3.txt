@@ -1,0 +1,2 @@
+model liniowy 
+wejscie * (wsp) -> wejscie * (wsp) -> wyjscie

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<postacie>
+	<postac id = "0">
+		<dane typ="Name">Godfryd</dane>
+		<dane typ="SPostac">postac3.png</dane>
+	</postac>
+	<postac id = "1">
+		<dane typ="Name">Zawisza Czarny</dane>
+		<dane typ="SPostac">postac4.png</dane>
+	</postac>
+</postacie>

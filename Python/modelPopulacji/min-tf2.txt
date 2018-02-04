@@ -1,0 +1,4 @@
+dwa wejscia:
+- daneDrzewa
+- daneZaraza
+jedno wyjscie

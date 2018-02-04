@@ -1,0 +1,22 @@
+Parametry Nastaw:
+Mapa drzew:
+Sta³a destrukcji = 0.010000
+Rozmiar mapy = (10,10)
+Mapa zarazy:
+Minimalny wspó³czynnik rozmna¿ania = 0.000000
+Maksymalny wspó³czynnik rozmna¿ania = 0.250000
+Mno¿nik inicjalizacji = 100
+Patogen:
+Maksymalne ¿ycie = 100
+Pocz¹tkowy g³ód = 0
+Wspó³czynnik umieralnoci = 19
+Wspó³czynnik glodu = 20
+Wspó³czynnik jedzenie = 15
+Iteracja:
+minPoleGlowneBezDrzewa = 0.100000
+maxPoleGlowneBezDrzewa = 0.300000
+minPoleGlowneZDrzewem = 0.600000
+maxPoleGlowneZDrzewem = 0.800000
+rozrzutPolaZDrzewemWDol = 0.050000
+rozrzutPolaZDrzewemWGore = 0.050000
+stosunek = 0.330000

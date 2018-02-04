@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poziomy>
+	<poziom id = "0">
+		<dane typ="Name">Earth</dane>
+		<dane typ="SPoziom">background3.jpg</dane>
+		<dane typ ="SMap">ml1.txt</dane>
+		<dane typ="STexture">tl1.txt</dane>
+		<dane typ="win">20</dane>
+	</poziom>
+	<poziom id = "1">
+		<dane typ="Name">Moon</dane>
+		<dane typ="SPoziom">background4.jpg</dane>
+		<dane typ="SMap">ml2.txt</dane>
+		<dane typ="STexture">tl2.txt</dane>
+		<dane typ="win">19</dane>
+	</poziom>
+	<poziom id = "2">
+		<dane typ="Name">Mars</dane>
+		<dane typ="SPoziom">background5.png</dane>
+		<dane typ="SMap">ml3.txt</dane>
+		<dane typ="STexture">tl3.txt</dane>
+		<dane typ="win">57</dane>
+	</poziom>
+	<poziom id = "3">
+		<dane typ="Name">Jowisz</dane>
+		<dane typ="SPoziom">background5.png</dane>
+		<dane typ="SMap">ml4.txt</dane>
+		<dane typ="STexture">tl4.txt</dane>
+		<dane typ="win">497</dane>
+	</poziom>
+</poziomy>
