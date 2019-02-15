@@ -22,4 +22,5 @@ C#:
     - sterowanie rejestratorem EDA za pomocą możliwości wysłania komend,
     - wizualizacje odebranych danych na wykresie,
     - zapis danych do pliku csv.
+    
 (napisana przy wykorzystaniu silnika graficznego WPF)
