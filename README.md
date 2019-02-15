@@ -15,7 +15,8 @@ C++:
 - knimini-cpp-sfml - podstawowa struktura gry platformowej wraz z silnikiem - projekt rekrutacyjny do Koła Naukowego Informatyki (Użyte biblioteki: SFML, RapidXML)
 
 C#:
-- AplicationEDA - aplikacja desktopowa do komunikacji za pomocą portu szeregowego ze skonstruowanym rejestratorem EDA (Electrodermal activity) służący do pomiaru rezystancji skóry człowieka; 
+- AplicationEDA - aplikacja desktopowa do komunikacji za pomocą portu szeregowego ze skonstruowanym rejestratorem EDA (Electrodermal activity) służącym do pomiaru rezystancji skóry człowieka; 
+
                   Umożliwia ona:
                   - odbiór danych, 
                   - sterowanie rejestratorem EDA za pomocą możliwości wysłania komend,
